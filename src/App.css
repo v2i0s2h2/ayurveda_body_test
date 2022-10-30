@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.card{
+display: block;
+background-color: rgb(0, 255, 64);
+align-items: center;
+justify-content: center;
+padding: -1%;
+margin: 15px;
+border: 2px solid black;
+border-radius: 15%;
+}
