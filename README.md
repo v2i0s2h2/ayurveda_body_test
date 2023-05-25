@@ -1,6 +1,5 @@
-# Ayurveda Project
-
-This repository contains the source code and documentation for an Ayurveda project. The project aims to provide information and tools related to Ayurveda, an ancient holistic healing system from India. It incorporates various features and resources to assist individuals in understanding and adopting Ayurvedic principles for promoting well-being and achieving balance in their lives.
+Ayurveda Project (Work in Progress)
+This repository contains the source code and documentation for an ongoing Ayurveda project. The project aims to provide information and tools related to Ayurveda, an ancient holistic healing system from India. It incorporates various features and resources to assist individuals in understanding and adopting Ayurvedic principles for promoting well-being and achieving balance in their lives.
 
 ## Table of Contents
 
